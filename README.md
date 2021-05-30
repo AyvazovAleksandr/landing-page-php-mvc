@@ -36,6 +36,6 @@ ______________
 
 ______________
 ## Запуск проекта
-* git clone https://github.com/AyvazovAleksandr/landing-page-native-php-mvc
+* git clone https://github.com/AyvazovAleksandr/landing-page-php-mvc
 * composer dump-autoload
 * загрузить dump бд (dump.sql)
