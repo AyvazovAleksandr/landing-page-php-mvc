@@ -1,0 +1,25 @@
+{
+  "name": "ayvazov-aleksandr/andata.localhost",
+  "type": "project",
+  "authors": [
+    {
+      "name": "AyvazovAleksandr",
+      "email": "paimon.pro@mail.ru"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Classes\\": "Classes",
+      "Models\\": "Models",
+      "Controllers\\": "Controllers",
+      "Views\\": "Views",
+      "DB\\": "Classes/DB",
+      "Routes\\": "Classes/Routes",
+      "Http\\": "Classes/Http"
+    },
+    "files": [
+      "config/settings.php",
+      "config/routes.php"
+    ]
+  }
+}
